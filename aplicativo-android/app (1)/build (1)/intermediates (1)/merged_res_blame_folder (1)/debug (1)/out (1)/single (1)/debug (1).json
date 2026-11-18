@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main4.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_fragment_frag3.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\fragment_frag3.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_outros.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\outros.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\menu_menu_botao.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\menu\\menu_botao.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_fundodaconta.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\fundodaconta.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main12.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main12.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_musical.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\musical.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main8.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main8.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_coracao2.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\coracao2.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_seta.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\seta.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_poesia.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\poesia.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_filosofia.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\filosofia.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_iloveread.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\iloveread.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_vazio.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\vazio.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_favcoracao.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\favcoracao.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_logotipo.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\logotipo.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_romancegenero.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\romancegenero.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_logotiposemfundo.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\logotiposemfundo.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_lupa.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_imagemcapa.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\imagemcapa.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main7.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main7.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main13.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main13.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_fragment_frag1.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\fragment_frag1.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_pena.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\pena.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_printromance.jpg.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\printromance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_paginaromance2.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\paginaromance2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_favoitos.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\favoitos.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_paginafav.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\paginafav.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_romance.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\romance.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_paginaromance.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\paginaromance.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_baseline_travel_explore_24.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\baseline_travel_explore_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_poetry.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\poetry.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_perfil.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_setinha.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\setinha.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_escrever.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\escrever.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main6.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main6.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_item_view.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_book.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main10.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main10.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_paginage.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\paginage.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_fragment_frag2.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\fragment_frag2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_olho.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\olho.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_coracao.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\coracao.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_baseline_menu_book_24.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_adicionados.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\adicionados.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_cantos.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\cantos.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_conta.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\conta.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_ponto.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\ponto.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_home.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_fundoconta.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\fundoconta.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_livro.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\livro.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_paginagenero.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\paginagenero.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_terror.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\terror.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_rodapemenu.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\rodapemenu.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_menu2.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\xml_actions.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\xml\\actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.etecliterariatcc.app-merged_res-32:/layout_activity_main4.xml.flat",
+        "source": "com.example.etecliterariatcc.app-main-34:/layout/activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\drawable_lupapesquisar.png.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\drawable\\lupapesquisar.png"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main9.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main9.xml"
+    },
+    {
+        "merged": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-merged_res-32:\\layout_activity_main11.xml.flat",
+        "source": "C:\\Users\\alunoinfo\\.gradle\\daemon\\8.0\\com.example.etecliterariatcc.app-main-34:\\layout\\activity_main11.xml"
+    }
+]

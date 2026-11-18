@@ -1,0 +1,6 @@
+com.example.etecliterariatcc.test.app-core-1.5.0-0 C:\Users\alunoinfo\.gradle\caches\transforms-3\248f4da9f366695659838e2bc9c91afa\transformed\core-1.5.0\res
+com.example.etecliterariatcc.test.app-annotation-experimental-1.3.0-1 C:\Users\alunoinfo\.gradle\caches\transforms-3\44fecac04c0ebbd73c9b6b5523a42ba7\transformed\annotation-experimental-1.3.0\res
+com.example.etecliterariatcc.test.app-androidTest-2 E:\etecliterariatcc2024\app\build\generated\res\resValues\androidTest\debug
+com.example.etecliterariatcc.test.app-mergeDebugAndroidTestResources-3 E:\etecliterariatcc2024\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.etecliterariatcc.test.app-mergeDebugAndroidTestResources-4 E:\etecliterariatcc2024\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.etecliterariatcc.test.app-merged_res-5 E:\etecliterariatcc2024\app\build\intermediates\merged_res\debugAndroidTest

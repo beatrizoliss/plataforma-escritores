@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+
+    <!-- Fragment Container -->
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_navigation"
+        android:background="#E5D3B3">
+
+        <!-- Grid de categorias -->
+
+        <GridLayout
+            android:layout_width="352dp"
+            android:layout_height="513dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:columnCount="2"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:rowCount="3">
+
+            <!-- Categoria Romance -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_romance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Romance"
+                        android:src="@drawable/romance" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="ROMANCE"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <!-- Categoria Terror -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_terror"
+                        android:layout_width="wrap_content"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Terror"
+                        android:src="@drawable/terror" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="TERROR"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <!-- Categoria Filosofia -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_filosofia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Filosofia"
+                        android:src="@drawable/filosofia" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="FILOSOFIA"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <!-- Categoria Musical -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_musical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Musical"
+                        android:src="@drawable/musical" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="MUSICAL"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <!-- Categoria Poesia -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_poesia"
+                        android:layout_width="match_parent"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Poesia"
+                        android:src="@drawable/poesia" />
+
+                    <TextView
+                        android:id="@+id/img_poesia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="POESIA"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <!-- Categoria Outros -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_outros"
+                        android:layout_width="wrap_content"
+                        android:layout_height="118dp"
+                        android:background="@drawable/cantos"
+                        android:backgroundTint="#2e1814"
+                        android:contentDescription="Outros"
+                        android:src="@drawable/outros" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="serif"
+                        android:text="OUTROS"
+                        android:textColor="#CD853F"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </GridLayout>
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="131dp"
+            android:layout_height="106dp"
+            android:layout_marginStart="142dp"
+            android:layout_marginBottom="21dp"
+            app:srcCompat="@drawable/logotipo" />
+
+    </FrameLayout>
+
+    <!-- Bottom Navigation -->
+
+</RelativeLayout>

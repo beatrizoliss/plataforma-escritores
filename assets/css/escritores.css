@@ -1,0 +1,172 @@
+.body{
+    background-color: blueviolet;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+
+.header__title img {
+  width: 120px; 
+  height: auto; 
+  position: fixed;
+  z-index: 999;
+  left: 70px;
+  top: -6px;
+}
+.footer__title img {
+  width: 100px; 
+  height: auto; 
+  border-radius: 50%; 
+}
+
+.collapse{
+ display: block;
+}
+
+.btn{
+  background-color: #CD853F;
+  border-radius: 20px;
+  padding: 10px 25px;
+  color: #2B1511;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 0px 18px 13px -6px rgba(0, 0, 0,0.2);
+  transition: all 0.4s;
+-webkit-transition: all 0.4s;
+-moz-transition: all 0.4s;
+-ms-transition: all 0.4s;
+-o-transition: all 0.4s;
+}
+
+.header{
+  padding: 30px 25px;
+}
+.header__elenco {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.header__menu {
+  background-color: transparent; 
+  position: fixed;
+  right: 0; 
+  top: 0; 
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px 25px;
+  z-index: 999; 
+}
+.header__el{
+    padding: 0 25px;
+    display: inline-block;
+}
+.header__img{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.header__logo, .header__menu{
+  display: inline-block;
+  vertical-align: middle;
+}
+.header__title{
+  position: relative; /* Para garantir que o conteúdo do cabeçalho apareça sobre a barra */
+  z-index: 999; /* Coloque o conteúdo do cabeçalho acima da barra */
+  font-size: 18px;
+  top: -35px;
+  margin: 0;
+  margin-left: 10px;
+  display: inline-block;
+  line-height: 18px;
+  vertical-align: middle;
+}
+
+.header__bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px; /* Altura desejada da barra */
+  background-color: #E5D3B3; /* Cor desejada para a barra -------------------------------------------------------- */
+  z-index: 998; /* Coloque a barra atrás do conteúdo principal do cabeçalho */
+}
+
+.header__link{
+  color: #4D2C14;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+
+}
+.header__link:hover{
+  text-decoration: none;
+  color: #CD853F;
+}
+
+
+@media screen and (max-width:1024px){
+  .collapse{
+ display: none;
+}
+  .navbar-toggle {
+    margin: 0;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+  .header__container{
+    width: 100%;
+    padding: 0;
+  }
+  .header__menu {
+    width: 100%;
+}
+  .header{
+    background-color:#fff; 
+    padding: 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 4;
+  }
+  .header__logo{
+    padding: 12px 20px 12px 20px;
+  }
+  .header__el {
+    display: block;
+    padding: 10px 20px;
+    border-top: 1px solid #ededed;
+}
+  
+  .header .btn--white, .header .btn--white:hover{
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    color:#fff;
+    background-color:transparent;
+  }
+  .header__el--button{
+    background-color: #CD853F;
+  }
+
+}
+
+/*primeira  parte*/
+.primeirotitulo{
+  font-size: 50px;
+  margin: 0;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #2B1511;
+}
+
+.subtitulo1{
+  font-size: 19px;
+  margin: 15px 0 40px 0;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #4D2C14;
+
+}
+
+

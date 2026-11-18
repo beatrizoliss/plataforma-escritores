@@ -1,0 +1,301 @@
+body, html {
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4D2C14;
+  }
+
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../imagens/sobreoprojeto.png");
+    
+  }
+
+  .corpo{
+        background-color: #E5D3B3;
+        font-size: 1.5em;
+  }
+
+  .about{
+    padding: 16px;
+  }
+  .aboutcontent{
+    margin: auto;
+    padding: 16px;
+  }
+  .abouth5{
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .abouttitle{
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2B1511;
+  }
+.aboutfrase{
+    padding: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-left: 4px solid #CD853F;
+    background-color: #FFF6EA;
+}
+.aboutimg{
+    margin-top: 16px;
+}
+.menuzinho{
+    padding: 16px;
+    margin: auto;
+    padding: 16px;
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.menuh5{
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.menutitle{
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2B1511;
+}
+
+.paragrafo{
+    color: #65422A !important;
+    font-size: 20px;
+}
+
+.queromudar {
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    background-color: #CD853F;
+    color: #2B1511;
+    border: 1px solid #E5D3B3;
+    transition: 0.3s;
+}
+
+.queromudar:hover {
+    background-color: #E5D3B3;
+    color: #2B1511;
+}
+  .menu {
+    display: none;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+
+.header__title img {
+  width: 120px; 
+  height: auto; 
+  position: fixed;
+  z-index: 999;
+  left: 70px;
+  top: -6px;
+}
+  .footer__title img {
+    width: 100px; 
+    height: auto; 
+    border-radius: 50%; 
+  }
+  
+  .collapse{
+   display: block;
+  }
+  
+  .btn{
+    background-color: #CD853F;
+    border-radius: 20px;
+    padding: 10px 25px;
+    color: #2B1511;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0px 18px 13px -6px rgba(0, 0, 0,0.2);
+    transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  }
+  
+  .header{
+    padding: 30px 25px;
+  }
+  .header__elenco {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+  }
+  .header__menu {
+    background-color: transparent; 
+    position: fixed;
+    right: 0; 
+    top: 0; 
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px 25px;
+    z-index: 999; 
+  }
+  .header__el{
+      padding: 0 25px;
+      display: inline-block;
+  }
+  .header__img{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .header__logo, .header__menu{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .header__title{
+    position: relative; /* Para garantir que o conteúdo do cabeçalho apareça sobre a barra */
+    z-index: 999; /* Coloque o conteúdo do cabeçalho acima da barra */
+    font-size: 18px;
+    top: -35px;
+    margin: 0;
+    margin-left: 10px;
+    display: inline-block;
+    line-height: 18px;
+    vertical-align: middle;
+  }
+  
+  .header__bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px; /* Altura desejada da barra */
+    background-color: #E5D3B3; /* Cor desejada para a barra -------------------------------------------------------- */
+    z-index: 998; /* Coloque a barra atrás do conteúdo principal do cabeçalho */
+  }
+  
+  .header__link{
+    color: #4D2C14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+  
+  }
+  .header__link:hover{
+    text-decoration: none;
+    color: #CD853F;
+  }
+  
+  
+  @media screen and (max-width:1024px){
+    .collapse{
+   display: none;
+  }
+    .navbar-toggle {
+      margin: 0;
+      display: inline-block;
+      margin-right: 10px;
+      margin-top: 10px;
+  }
+    .header__container{
+      width: 100%;
+      padding: 0;
+    }
+    .header__menu {
+      width: 100%;
+  }
+    .header{
+      background-color:#fff; 
+      padding: 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 4;
+    }
+    .header__logo{
+      padding: 12px 20px 12px 20px;
+    }
+    .header__el {
+      display: block;
+      padding: 10px 20px;
+      border-top: 1px solid #ededed;
+  }
+    
+    .header .btn--white, .header .btn--white:hover{
+      padding: 0;
+      border: 0;
+      box-shadow: none;
+      color:#fff;
+      background-color:transparent;
+    }
+    .header__el--button{
+      background-color: #CD853F;
+    }
+  
+  }.header__logo, .header__menu{
+display: inline-block;
+vertical-align: middle;
+}
+
+.header__title{
+position: relative; /* Para garantir que o conteúdo do cabeçalho apareça sobre a barra */
+z-index: 999; /* Coloque o conteúdo do cabeçalho acima da barra */
+font-size: 18px;
+top: -35px;
+margin: 0;
+margin-left: 10px;
+display: inline-block;
+line-height: 18px;
+vertical-align: middle;
+}
+
+.header__bar {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100px; /* Altura desejada da barra */
+background-color: #E5D3B3; /* Cor desejada para a barra -------------------------------------------------------- */
+z-index: 998; /* Coloque a barra atrás do conteúdo principal do cabeçalho */
+}
+
+.header__light{
+color: #a081ae;
+}
+.header__link{
+color: #4D2C14;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 14px;
+
+}
+.header__link:hover{
+text-decoration: none;
+color: #CD853F;
+}
+.navbar-toggle .icon-bar{
+background-color: #8198ae;
+}
+.navbar-toggle {
+margin: 5px 0;
+}
+
+
+  @media screen and (max-width:480px){
+    .footer {
+      padding: 15px 0;
+    }
+    .footer__img {
+      width: 15px;
+    }
+    .footer__title {
+      font-size: 16px;
+      margin-left: 5px;
+    }
+}

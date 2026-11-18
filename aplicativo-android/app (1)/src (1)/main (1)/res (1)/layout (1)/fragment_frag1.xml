@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".frag1">
+
+    <!-- ConstraintLayout que contém o conteúdo principal -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="791dp"
+        android:background="@drawable/fundodaconta">
+
+        <!-- Header -->
+
+        <!-- User Info -->
+
+        <!-- Histórias adicionadas -->
+
+        <!-- Grid de Histórias -->
+
+        <TextView
+            android:id="@+id/tvWelcome"
+            android:layout_width="190dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginBottom="17dp"
+            android:fontFamily="serif"
+            android:text="Bem Vindo!"
+            android:textColor="#2E1814"
+            android:textSize="34sp"
+            app:layout_constraintBottom_toTopOf="@+id/txtnome"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/txtnome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="160dp"
+            android:layout_marginBottom="41dp"
+            android:fontFamily="serif"
+            android:text="Seu Nome"
+            android:textColor="#2E1814"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            app:layout_constraintBottom_toTopOf="@+id/adicionado"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/profileImage"
+            android:layout_width="127dp"
+            android:layout_height="91dp"
+            android:layout_marginStart="142dp"
+            android:layout_marginBottom="21dp"
+            android:src="@drawable/perfil"
+            app:layout_constraintBottom_toTopOf="@+id/tvWelcome"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/favorito"
+            android:layout_width="122dp"
+            android:layout_height="127dp"
+            android:layout_marginStart="52dp"
+            android:layout_marginBottom="340dp"
+            android:src="@drawable/favoitos"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/adicionado"
+            android:layout_width="122dp"
+            android:layout_height="127dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginBottom="348dp"
+            android:src="@drawable/adicionados"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/favorito" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="67dp"
+            android:layout_marginBottom="309dp"
+            android:fontFamily="serif"
+            android:text="FAVORITOS"
+            android:textColor="#CD853F"
+            android:textSize="16sp"
+            android:textStyle="normal|bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="39dp"
+            android:layout_marginBottom="309dp"
+            android:fontFamily="serif"
+            android:text="SUAS HISTÓRIAS"
+            android:textColor="#CD853F"
+            android:textSize="16sp"
+            android:textStyle="normal|bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView" />
+
+        <!-- Menu Inferior -->
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Elementos adicionais fora do ConstraintLayout -->
+
+</FrameLayout>

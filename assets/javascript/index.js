@@ -1,0 +1,9 @@
+$("#myCarousel").carousel({
+    interval: false
+  });
+
+
+
+
+
+  

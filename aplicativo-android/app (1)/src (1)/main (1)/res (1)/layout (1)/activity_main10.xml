@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paginafav"
+    tools:context=".MainActivity10">
+
+    <ImageView
+        android:id="@+id/lblcapa"
+        android:layout_width="184dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginBottom="12dp"
+        app:layout_constraintBottom_toTopOf="@+id/lbltitulo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/imagemcapa" />
+
+    <ImageView
+        android:id="@+id/imageView69"
+        android:layout_width="55dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="44dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView10"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/seta" />
+
+    <TextView
+        android:id="@+id/lbltitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="serif"
+        android:text="titulo da historia"
+        android:textColor="#CD853F"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView59"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="104dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="serif"
+        android:text="AUTOR:"
+        android:textColor="#CD853F"
+        android:textSize="12sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView61"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblautor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginBottom="6dp"
+        android:fontFamily="serif"
+        android:text="nome do autor"
+        android:textColor="#CD853F"
+        android:textSize="12sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/lbldescricao"
+        app:layout_constraintStart_toEndOf="@+id/textView59" />
+
+    <TextView
+        android:id="@+id/textView61"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="104dp"
+        android:layout_marginBottom="52dp"
+        android:fontFamily="serif"
+        android:text="DESCRIÇÃO:"
+        android:textColor="#CD853F"
+        android:textSize="14sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lbldescricao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="serif"
+        android:text="descrição da historia"
+        android:textColor="#CD853F"
+        android:textSize="12sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/favoriteCheckbox"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="128dp"
+        android:layout_marginBottom="24dp"
+        android:backgroundTint="#CD853F"
+        android:fontFamily="serif"
+        android:text="LER HISTÓRIA"
+        android:textColor="#2E1814"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="289dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="176dp"
+        android:fontFamily="serif"
+        android:text="Olá! Bem-vindo à sua página de história escolhida para lê!"
+        android:textColor="#CD853F"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/lblcapa"
+        app:layout_constraintStart_toEndOf="@+id/imageView69" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="355dp"
+        android:layout_height="157dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7"
+        app:srcCompat="@drawable/iloveread" />
+
+    <CheckBox
+        android:id="@+id/favoriteCheckbox"
+        android:layout_width="136dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="142dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="142dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#FFC107"
+        android:button="@android:drawable/btn_star"
+        android:buttonTint="#FFC107"
+        android:fontFamily="serif"
+        android:text="favoritar"
+        android:textColor="#2E1814"
+        android:textStyle="normal|bold|italic"
+        app:buttonIconTint="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.555"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView61"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

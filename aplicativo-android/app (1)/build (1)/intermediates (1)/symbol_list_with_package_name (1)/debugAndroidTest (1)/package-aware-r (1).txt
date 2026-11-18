@@ -1,0 +1,3 @@
+com.example.etecliterariatcc.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

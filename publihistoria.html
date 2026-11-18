@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publicar História</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(45deg, #65422A, #E5D3B3, #65422A, #E5D3B3, #65422A);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            background-size: 400% 400%;
+            animation: gradientBackground 15s ease infinite;
+            color: #2B1511;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        @keyframes gradientBackground {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        header {
+            background-color: rgba(43, 21, 17, 0.9);
+            color: #E5D3B3;
+            padding: 1rem;
+            text-align: center;
+            width: 100%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 100%;
+            margin-top: 1rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+        }
+
+        input[type="text"], input[type="file"], textarea, select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #2B1511;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 1rem;
+            background-color: #E5D3B3;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #2B1511;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button {
+            background-color: #CD853F;
+            border-radius: 10px;
+            padding: 10px 25px;
+            color: #2B1511;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            box-shadow: 0px 18px 13px -6px rgba(0, 0, 0,0.2);
+            transition: all 0.4s;
+          -webkit-transition: all 0.4s;
+          -moz-transition: all 0.4s;
+          -ms-transition: all 0.4s;
+          -o-transition: all 0.4s;"
+
+        button:hover {
+            background-color: #65422A;
+        }
+
+        button:active {
+            background-color: #2B1511;
+            box-shadow: 0 5px #2B1511;
+            transform: translateY(4px);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;">Publicar História</h1>
+    </header>
+
+    <div class="container">
+        <form>
+            <div class="form-group">
+                <label for="titulo">Título</label>
+                <input type="text" id="titulo" name="titulo" placeholder="Digite o título da sua história">
+            </div>
+            <div class="form-group">
+                <label for="escritor">Você é escritor?</label>
+                <select id="escritor" name="escritor">
+                    <option value="Sim">Sim</option>
+                    <option value="Não">Não</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="genero">Gênero Literário</label>
+                <select id="genero" name="genero">
+                    <option value="terror">Terror</option>
+                    <option value="romance">Romance</option>
+                    <option value="aventura">Aventura</option>
+                    <option value="ficcao">Ficção</option>
+                    <option value="poesia">Poesia</option>
+                    <option value="musica">Música</option>
+                    <option value="outro">Outro</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="conteudo">Conteúdo</label>
+                <textarea id="conteudo" name="conteudo" rows="10" placeholder="Escreva sua história aqui"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="capa">Escolher Capa da História</label>
+                <input type="file" id="capa" name="capa">
+            </div>
+            <button type="button" onclick="publicarHistoria()"><strong>Publicar</strong></button>
+        </form>
+    </div>
+
+    <script>
+        function publicarHistoria() {
+            const titulo = document.getElementById('titulo').value;
+            const genero = document.getElementById('genero').value;
+            const conteudo = document.getElementById('conteudo').value;
+            const capa = document.getElementById('capa').files[0];
+
+            if (titulo && genero && conteudo && capa) {
+                alert('História publicada com sucesso!\n\nTítulo: ' + titulo + '\nGênero: ' + genero + '\nConteúdo: ' + conteudo + '\nCapa: ' + capa.name);
+                document.getElementById('titulo').value = '';
+                document.getElementById('genero').value = 'terror';
+                document.getElementById('conteudo').value = '';
+                document.getElementById('capa').value = '';
+            } else {
+                alert('Por favor, preencha todos os campos e selecione uma capa.');
+            }
+        }
+    </script>
+</body>
+</html>
